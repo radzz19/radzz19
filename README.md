@@ -2,7 +2,7 @@
 
 <img src="https://i.pinimg.com/originals/79/41/00/794100929069b857d35b479bf4c69c2e.gif" width="300" align="right" style="margin-left: 20px;" />
 
-🎓 **Computer Science Student** at **Chitkara University** (Class of 2027, CGPA: **7.7**)  
+🎓 **Computer Science Student** at **Chitkara University** (Class of 2027, CGPA: **7.96**)  
 🚀 **Core Team Member** at **Bits'N' Bytes** | **GRAPHICS EXECUTIVE**  
 🏆 **Hackathon** – 1st Runner Ups at Regional Level  **Hack India 2025**  
 💻 Passionate about **Web Development, AI and Open Source Contributions**  
