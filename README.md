@@ -106,7 +106,7 @@ Hackathons Finalist
 Competitors Outperformed
 </td>
 <td align="center">
-<strong>7.7</strong><br/>
+<strong>7.96</strong><br/>
 CGPA Excellence
 </td>
 </tr>
